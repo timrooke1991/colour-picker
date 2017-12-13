@@ -1,3 +1,4 @@
+
 # Colour Guessing Game
 
 #### Installation and setup
@@ -12,8 +13,6 @@ The Colour Guessing Game is available to view and register [here.](https://calm-
 ## Project Description
 
 This was a simple browser game written in plain JavaScript. The aim of the game is to guess the colour based on the RGB colour value. The project allowed me to get a better handle on JavaScript events and vanilla JavaScript syntax.
-
-![Landing Page](../assets/img/color-picker/winner.png)   
 
 ### [](https://github.com/timrooke1991/colour-picker#features)Features
 
@@ -40,8 +39,6 @@ The main benefit for me of this project was understanding more about CSS3 animat
 I dedicated specific time to refactoring the code of this game. I tried to keep my code clean and DRY. Furthermore, I tried to split my code into specific functions, so that each function is doing one, explicit job. This made creating the game much simpler.
 
 ### [](https://github.com/timrooke1991/colour-picker#rounding-it-off)Rounding it off
-
-![Landing Page](../assets/img/color-picker/easy.png)    
 
 Improvements that I would like to make to the game in the future would be:
 
