@@ -91,6 +91,7 @@ button {
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
 	outline: none;
+	border-radius: 0;
 }
 
 button:hover {
